@@ -31,11 +31,6 @@ Day-02-Weather-Application/
 ├── script.js
 └── README.md
 ```
-## API Used
-
-Open-Meteo: https://open-meteo.com/
-
-Geocoding API: https://geocoding-api.open-meteo.com/
 
 ## How to Run
 
@@ -48,5 +43,3 @@ Geocoding API: https://geocoding-api.open-meteo.com/
 ## Author
 
 **Nisarga Shetti**
-
-GitHub: https://github.com/Nisarga-Shetti
